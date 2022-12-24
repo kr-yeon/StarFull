@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909281302076",
+    "project_id": "starfull-2a184",
+    "storage_bucket": "starfull-2a184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909281302076:android:48be85037209cc62b55539",
+        "android_client_info": {
+          "package_name": "com.harmonics.gradation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909281302076-api37j0s7475g37ojl4aira1na2cvvfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Fafu4TQbD01rBUssiXSBzz5K8QlWG40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909281302076-api37j0s7475g37ojl4aira1na2cvvfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+export default {
+  white: '#FFFFFF',
+  white_gray: '#EEEEEE',
+  light_gray: '#E8E8E8',
+  gray: '#C4C4C4',
+  black_gray: '#C3C3C3',
+  kakao: '#FFEB00',
+  apple: '#000000',
+  gray_black: '#797979',
+  black: '#000000',
+  blue_purple: '#2E2C76',
+  gray_white: '#C8C8C8',
+  indigo: '#27265C',
+  blue: '#3F70E7',
+  pink: '#FD368A',
+  red: '#FF0000',
+};
